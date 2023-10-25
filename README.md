@@ -1,4 +1,4 @@
-# GacO_Gaussian
+# GacO
 
 * GacO.py is a Python script used to extract Gaussian output results such as,
   * optimized energy values in both hartrees per particle and electronvolts units.
